@@ -1,56 +1,9 @@
 /* General Styles */
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans:ital,wght@0,100..900;1,100..900&family=Anybody:ital,wght@0,100..900;1,100..900&family=Fahkwang:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Fontdiner+Swanky&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 /* General Styles */
-body {
-    font-family: 'Fahkwang', serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f8f9fa;
-    color: #333;
-}
 
-/* filepath: /C:/Users/Kathr/OneDrive/Desktop/codenation coding/style.css */
-/* General Styles */
-body {
-    font-family: 'Fahkwang', serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f8f9fa;
-    color: #333;
-}
-
-.fahkwang-extralight {
-    font-family: "Fahkwang", serif;
-    font-weight: 200;
-    font-style: normal;
-}
-
-.fahkwang-light {
-    font-family: "Fahkwang", serif;
-    font-weight: 300;
-    font-style: normal;
-}
-
-.fahkwang-regular {
-    font-family: "Fahkwang", serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.fahkwang-medium {
-    font-family: "Fahkwang", serif;
-    font-weight: 500;
-    font-style: normal;
-}
-
-.fahkwang-semibold {
-    font-family: "Fahkwang", serif;
-    font-weight: 600;
-    font-style: normal;
-}
   
-}
 /* Header */
 header {
     background:color(srgb red green blue) #f05006;
@@ -129,7 +82,7 @@ footer {
     color: white;
 }
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Fahkwang", serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
